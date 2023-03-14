@@ -1,18 +1,18 @@
 @import url('https://fonts.maateen.me/solaiman-lipi/font.css');
 
 body {
-    height: 842px;
-    width: 595px;
+    width: 210mm;
+    height: 297mm;
     margin-left: auto;
     margin-right: auto;
     font-family: 'SolaimanLipi', Arial, sans-serif !important;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 
 #main {
-    width: 560px;
-    height: 650px;
+    width: 200mm;
+    height: 230mm;
     margin-left: auto;
     margin-right: auto;
     border: 1px solid black;
@@ -57,7 +57,7 @@ body {
 
 .large-text {
     font-weight: bold;
-    font-size: 12px;
+    font-size: 18px;
 }
 
 .underline-text {
@@ -72,5 +72,5 @@ body {
 .other-text {
     padding: 10px;
     line-height: 3px;
-    font-size: 9px;
+    font-size: 13px;
 }
