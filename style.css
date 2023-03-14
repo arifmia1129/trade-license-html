@@ -6,13 +6,13 @@ body {
     margin-left: auto;
     margin-right: auto;
     font-family: 'SolaimanLipi', Arial, sans-serif !important;
-    font-size: 14px;
+    font-size: 11px;
 }
 
 
 #main {
     width: 200mm;
-    height: 230mm;
+    height: 225mm;
     margin-left: auto;
     margin-right: auto;
     border: 1px solid black;
@@ -35,8 +35,9 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     line-height: 1px;
+    padding: 5px;
 }
 
 .hz-line {
